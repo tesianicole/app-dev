@@ -1,2 +1,6 @@
 # app-dev
 My first repository
+|Series| STRANGER THINGS|
+|Stranger Things is ultimately a study in love and relationships in all their messy brokenness, and an exploration of the things that make us human and differentiate us from the forces of evil, portrayed in the series as coming from a Dantesque place of utter coldness. When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl. Watch all you want. This nostalgic nod to '80s sci-fi and horror classics has earned dozens of Emmy nominations, including three for Outstanding Drama.|
+|Series| Doctor Cha|
+|It tells the story of a medical graduate turned housewife but decided to return to the medical field, and a doctor husband who maintains a perfect dual life. Doctor Chais an ongoing South Korean television series starring Uhm Jung-hwa in the title role, along with Kim Byung-chul, Myung Se-bin, and Min Woo-hyuk. It premiered on JTBC on April 15, 2023, and airs every Saturday and Sunday at 22:30. It is also available for streaming on TVING and Netflix in selected regions. The series is a commercial hit and became one of the highest-rated series in Korean cable television history|
